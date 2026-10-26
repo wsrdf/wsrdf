@@ -1,9 +1,9 @@
-Junior Python developer
+Junior Python back-end developer
 -----------------------
 
+* 1 year of commercial back-end development
 * Located in Moscow
 * E-mail [anishenkowork@gmail.com](mailto:anishenkowork@gmail.com)
-* 1 year of commercial back-end development
 * Currently learning Alembic, CI/CD, Jenkins, Kubernetes
 
 My skills:
